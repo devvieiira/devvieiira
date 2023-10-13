@@ -31,6 +31,6 @@
 <br/>
 
 <div align='center' style='display: flex; gap: 4px; width: 100vw; padding: 5px;'>
-  <img alt='langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devvieiira&layout=donut&theme=transparent&hide_border=true'/>
-  <img alt='langs' src='https://streak-stats.demolab.com/?user=devvieiira&theme=transparent&hide_border=true'/>
+  <img style='max-width: 100%;' alt='langs' height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=devvieiira&layout=compact&theme=transparent&hide_border=true'/>
+  <img style='max-width: 100%;' alt='langs' width='50%' src='https://streak-stats.demolab.com/?user=devvieiira&theme=transparent&hide_border=true'/>
 </div>
